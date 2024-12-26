@@ -10,7 +10,7 @@ version=1.0
 author=André Rodrigues da Silva
 email=andrerodriguessilva99@gmail.com
 
-about=This plugin prepares the data for the MGB-IPH model. The user inputs the data in .csv format, and the plugin converts it to .txt ASCII.
+about=The user inputs the data in .csv format, and the plugin converts it to .txt ASCII.
 
 tracker=https://github.com/andrerdsilva/MGBInputTool/issues
 repository=https://github.com/andrerdsilva/MGBInputTool
