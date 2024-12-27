@@ -23,7 +23,7 @@ hasProcessingProvider=no
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=hydrology, hydraulics
 
 homepage=https://github.com/andrerdsilva/MGBInputTool
 category=Plugins
